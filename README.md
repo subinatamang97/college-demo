@@ -1,4 +1,4 @@
 # college-demo
 This is my first git repository.
 <br>
-Author - Subina Tamang
+Author - Subina (git demo)
